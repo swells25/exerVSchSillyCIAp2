@@ -1,0 +1,40 @@
+.container {
+    max-width: 1000 px;
+    margin: auto;
+}
+
+#headline {
+    color: darkgreen;
+    font-family: 'Georgia';
+    font-size: 3em;
+    text-align: center;
+}
+
+#subhead {
+    font-size: 2.5em;
+    text-align: center;
+}
+
+#upper {
+    text-transform: uppercase;
+}
+
+p, ul, a {
+    line-height: 40px;
+    font-size: 1.5em;
+} 
+
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+img {
+    float: left;
+    margin: 1.5em;
+    max-width: 40%;
+    max-height: auto;  
+}
